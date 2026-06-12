@@ -1,0 +1,10 @@
+Python Programming
+Data Science Basics
+Artificial Intelligence
+Machine Learning
+Computer Networks
+Database Management Systems
+Operating Systems
+Data Structures and Algorithms
+Cloud Computing
+Web Development
